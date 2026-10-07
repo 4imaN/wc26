@@ -1,0 +1,17 @@
+city,venue,country,lat,lon,altitude_m,climate_controlled,tz
+East Rutherford,MetLife Stadium,United States,40.8135,-74.0745,,0,America/New_York
+Arlington,AT&T Stadium,United States,32.7473,-97.0945,,1,America/Chicago
+Atlanta,Mercedes-Benz Stadium,United States,33.7554,-84.4009,,1,America/New_York
+Houston,NRG Stadium,United States,29.6847,-95.4107,,1,America/Chicago
+Kansas City,Arrowhead Stadium,United States,39.0489,-94.4839,,0,America/Chicago
+Philadelphia,Lincoln Financial Field,United States,39.9008,-75.1675,,0,America/New_York
+Foxborough,Gillette Stadium,United States,42.0909,-71.2643,,0,America/New_York
+Seattle,Lumen Field,United States,47.5952,-122.3316,,0,America/Los_Angeles
+Santa Clara,Levi's Stadium,United States,37.4032,-121.9698,,0,America/Los_Angeles
+Inglewood,SoFi Stadium,United States,33.9535,-118.3392,,0,America/Los_Angeles
+Miami Gardens,Hard Rock Stadium,United States,25.9580,-80.2389,,0,America/New_York
+Vancouver,BC Place,Canada,49.2768,-123.1119,,1,America/Vancouver
+Toronto,BMO Field,Canada,43.6332,-79.4186,,0,America/Toronto
+Mexico City,Estadio Azteca,Mexico,19.3029,-99.1505,,0,America/Mexico_City
+Guadalupe,Estadio BBVA,Mexico,25.6693,-100.2442,,0,America/Monterrey
+Zapopan,Estadio Akron,Mexico,20.6817,-103.4626,,0,America/Mexico_City
